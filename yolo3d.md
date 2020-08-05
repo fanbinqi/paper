@@ -3,8 +3,8 @@
 
 在Loss的设计中增加了Z轴方向的损失、高度的损失以及偏角的损失
 
-![image](https://github.com/fanbinqi/paper/blob/master/yolo3d_1.png/yolo3d_1)
-![image](https://github.com/fanbinqi/paper/blob/master/yolo3d_1.png/yolo3d_2)
-![image](https://github.com/fanbinqi/paper/blob/master/yolo3d_1.png/yolo3d_3)
-![image](https://github.com/fanbinqi/paper/blob/master/yolo3d_1.png/yolo3d_4)
-![image](https://github.com/fanbinqi/paper/blob/master/yolo3d_1.png/yolo3d_5)
+![image](https://github.com/fanbinqi/paper/blob/master/pic/yolo3d_1.png)
+![image](https://github.com/fanbinqi/paper/blob/master/pic/yolo3d_2.png)
+![image](https://github.com/fanbinqi/paper/blob/master/pic/yolo3d_3.png)
+![image](https://github.com/fanbinqi/paper/blob/master/pic/yolo3d_4.png)
+![image](https://github.com/fanbinqi/paper/blob/master/pic/yolo3d_5.png)
